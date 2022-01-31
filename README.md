@@ -4,7 +4,7 @@
 Aim to parse a tabular file with three columns 
 The 3rd column is optional
 
-
+| titre | titre | titre | 
 |:----------------:|:------------------:|:----------------------:|
 | blabla           | blabla              |          blabla       |
 | blabla           | blabla              |                     |

@@ -1,0 +1,36 @@
+!gaf-version: 2.2
+!
+!generated-by: GOC
+!
+!date-generated: 2022-01-14T17:44
+!
+!Header from source association file:
+!=================================
+!
+!generated-by: GOC
+!
+!date-generated: 2022-01-14T03:25
+!
+!Header from pombase source association file:
+!=================================
+!generated-by: PomBase
+!date-generated: 2022-01-11T21:33
+!URL: https://www.pombase.org
+!contact: helpdesk@pombase.org
+!=================================
+!
+!Header copied from paint_pombase_valid.gaf
+!=================================
+!Created on Sun Jan  2 19:01:56 2022.
+!generated-by: PANTHER
+!date-generated: 2022-01-02
+!PANTHER version: v.15.0.
+!GO version: 2021-11-16.
+!
+!=================================
+!
+!Documentation about this header can be found here: https://github.com/geneontology/go-site/blob/master/docs/gaf_validation.md
+!
+rouge	2	df
+jaune	3	
+vert	2	df

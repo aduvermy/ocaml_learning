@@ -5,7 +5,7 @@ Aim to parse a tabular file with three columns
 The 3rd column is optional
 
 |  |  |  | 
-|:---:|:---:|:---:|
+|:-:|:-:|:-:|
 | blabla           | blabla              |          blabla       |
 | blabla           | blabla              |                     |
 | blabla           | blabla              |                      |
